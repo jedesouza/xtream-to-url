@@ -1,5 +1,5 @@
 # xtream-to-url
-CLI-based Xtream Codes to URL converter. **Please note that this software does not provide 
+CLI-based Xtream Codes to URL converter. **Please note that this software does not provide Xtream Codes links.**
 
 # Supported Formats
 
