@@ -24,3 +24,5 @@ XMLTV: xmltv (through xmltv.php)
 - Open in Chrome (auto-download)
 
 - wget: Download to Desktop (soon)
+
+[Download it here](https://github.com/weareblahs/xtream-to-url/releases/download/1.0.0.0/XTTURL.exe)
