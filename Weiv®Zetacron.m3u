@@ -1,31 +1,30 @@
 
 ########EXTM3U8#######
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png"
-group-title= "TV Aberta",https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png"
+
+group-title= "TV Aberta",SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+ #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png"
+
 group-title="TV Aberta", Rede TV 
 https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w318899307.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png"
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png"
+
 group-title="TV aberta", Record 
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png"
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Xtremetv.jpg"
 group-title="TV Aberta",xtremetv
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1589000414.m3u8
- 
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Xtremetv.jpg"
 
 ########EXTM3U8#######
 
-
-#EXTINF:-1 tvg-logo="https://www.claquete.com.br/fotos/filmes/poster/15795_medio.jpg"
 group-title="NET+filmes", Furiosa uma saga mad Max
 https://expires1714447534.4gx322mopx7k3c3mbfsj4xl1lbmfh1fda33f2a217unxm4dn301.ink/file/karrycoffey/808772/-f-i-l-m-e-s-/786892.mp4?auth_key=9yXh4pwaL3cMDpYLdyME6LMQyTE6v1qceXn&expires=1714447534
+#EXTINF:-1 tvg-logo="https://www.claquete.com.br/fotos/filmes/poster/15795_medio.jpg"
 
 ########EXTM3U8#######
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU"
 group-title="sky", Rádio Simão na Web http://stm13.xcast.com.br:8402/stream 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU"
