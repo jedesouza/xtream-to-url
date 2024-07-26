@@ -1,68 +1,17 @@
-#EXTM3U8#
+#EXTM3U8#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU"
 
-group-title="sky", Rádio Simão na Web http://stm13.xcast.com.br:8402/stream 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU"
-
-########EXTM3U8#######
-
-group-title= "TV Aberta",https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png"
-
-group-title="TV Aberta", Rede TV 
-https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w318899307.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png"
-
-group-title="TV aberta", Record 
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png"
-
-group-title="TV Aberta",xtremetv
-https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1589000414.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Xtremetv.jpg"
-
-
-########EXTM3U8#######
-
-group-title="NET+filmes", Furiosa uma saga mad Max
-https://expires1714447534.4gx322mopx7k3c3mbfsj4xl1lbmfh1fda33f2a217unxm4dn301.ink/file/karrycoffey/808772/-f-i-l-m-e-s-/786892.mp4?auth_key=9yXh4pwaL3cMDpYLdyME6LMQyTE6v1qceXn&expires=1714447534
-
-#EXTINF:-1 tvg-logo="https://www.claquete.com.br/fotos/filmes/poster/15795_medio.jpg"
-
-
-group-title="NET+filmes", https://expires1714447534.4gx322mopx7k3c3mbfsj4xl1lbmfh1fda33f2a217unxm4dn301.ink/file/karrycoffey/808772/-f-i-l-m-e-s-/567811.mp4?auth_key=9yXh4pwaL3cMDpYLdyME6LMQyTE6v1qceXn&expires=1714447534
-
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/24/03/20/19/50/2593965.png"
-
-########EXTM3U8#######
-
-group-title="NET+séries", Temporada 1: Episódio1  Sweet home
+#EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/series/series_2408_sweet-home-poster.jpg"
+group-title="NET+séries", Temporada 1: Episódio 1 Sweet home
 https://piroplay.xyz/m3/MXVxTXV0S3hEdWFWYTFaTEI5ZnlWRXkyVmdsWGg2ZzRhUmd3bDBZR0pCNDF4MXM4V1pQV2FqZVhiVUswS3dkbU9rWlRueFUwVGJ6WXM3cjFLSmF1Qnp0R05IK1lYWW42YVlNMUpwZUppVERVN1BvWjY0eCtSV0tQb3c1d1ZRaVRaMjlIQUlyUWhHdm1vZ3FBa1dYbUVreUdQV2FvT05UTG00RXhibVhraW9EZzByTE1HTk1NaHYzZE8veWltTTJJdlBwOU9HK3VhNkxhU0NDeHBwYkt5UUlEVXd6SkJKbzArc3hmZzYzS3ZXamhhU0xFZnZ1Wkc1ZDU3UTJld053YzRpYU5Pb3lCYUgvWlpzaGNFRGl2Yk0xQkMzY3FqRmdtamsrcktSTlNlVTQ9
 
 #EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/series/series_2408_sweet-home-poster.jpg"
-
-group-title="NET+séries", Temporada 1: Episódio2  Sweet home
+group-title="NET+séries", Temporada 1: Episódio 2 Sweet home
 https://piroplay.xyz/m3/UXR2b1FNRlozaWVWbkpwS1d2bjdpdFpKSTZlcDhTOEVDZXlkZndmZWN3MHJIanpoeVp4NnRiR05FSzY1RWl5dkJkZTNxY1JLSFFjejR0dlpIQStKcHlia2VnRUlkRDFmdWcyd3hDRDExNXBTenNNRm13ZUYvRkV5eERvYjZCL2I5QjR1WFBwbWFkTVA5cHRvZmNPSHlSWnJ0UFM4ak9uemJ0YmluaTRnbTBhcW12WTNnajNpREp3TG1KS0tOOXEralZBYlhra2J4UnZLcjZKbkxmd3lSSGxKSGFiS3BDNXB4S3NhaVBMS3dLM2o1ZXlEMjkwOEVhYlJPdkNsT250YkFZU2JvN05ESnB1Z1k0eXpTS1hvcmxQeHpsNjZTMy9XWWRGbWJkRkdPMXM9
 
 #EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/series/series_2408_sweet-home-poster.jpg"
-
-group-title="NET+séries", Temporada 1: Episódio3  Sweet home
+group-title="NET+séries", Temporada 1: Episódio 3 Sweet home
 https://piroplay.xyz/m3/bmk2RG5pR1RQMkNOUnJqalAzZnFySjRiMEp1OGFpbFhzc3dOaVZZK015MTF6SkRYaVo3Q0h1bkNFRVkxR2QwY2xDNkNYZFcrRCszOUNMZTEvbzBKZm5Cb0MyOTlPSTVlbVRXZmdUZWxDcy9xSVBuZ09VTkRjY2Ntc0tlNlo2Z3pDSWVjSkdteFpEendBbmdIY05qM3ZNWEZ2Zmt1eDhLTzRIaWVQUFEycFhxbjIwOCtwaW5PT0JTdVFKMy8vV1ltc3liUzlxYm8xSTNtNzRJYk1wWnd3RlVoTHZpaDVyVUdWeGE2M2NWUDkyOVI4Y003MW8wNVQxZ1pCSXp1RnRmQUtRMEdiTWRlZjlSbUFwK2JnOThhQ3g5SXNRN1N1bWp6RFpjMHFya1duRzQ9
 
 #EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/series/series_2408_sweet-home-poster.jpg"
-
-group-title="NET+séries", Temporada 1: Episódio4  Sweet home
+group-title="NET+séries", Temporada 1: Episódio 4 Sweet home
 https://piroplay.xyz/m3/OUhzUHlpU1VRMzZaaEVReTZSUGZnQkowQ3VBZUFRKzY5VFlmcUl6djFaa2hWWTJQNnVXNmduT3lxankzYkg1Zlh0RDczUWU3UGJsTVZrODRRc2xva1pqa1EvQ1ZMZWhMZ2ZMN0RhRFJNRXZ6YmtVb1h5dTN1V0ZuL0VTMWE5M2VRMTZFWUJQdzVvUkU2Wjh1U2hsSUVJTDlBaWVFaVlQOS9JUXF6d1ZMQTA2eDV0eU5LbE9Hekg5UE9vYTFKWGMrNHhza2p2OTczTHlMMVJWUXMybjFlRXlVRnBSMTBsYkszTkZXelFGVSt0V0ZEZWhROXo0QTZYc0c1ZThPK0o1dHYrWThjZzRhMHF4WFZZaUtXQm1zM3A5Z0d1MjVwd29qVTRITUFLRW9WVVk9
-
-#EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/series/series_2408_sweet-home-poster.jpg"
-
-
-
-
-
-
-
