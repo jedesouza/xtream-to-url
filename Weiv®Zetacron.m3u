@@ -1,5 +1,27 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Sweet home"
-tvg-logo="https://cinema10.com.br/upload/series/series_2408_sweet-home-poster.jpg"
-group-title="NET+séries",Sweet home Temporada 1: Episódio 1 
-https://piroplay.xyz/m3/MXVxTXV0S3hEdWFWYTFaTEI5ZnlWRXkyVmdsWGg2ZzRhUmd3bDBZR0pCNDF4MXM4V1pQV2FqZVhiVUswS3dkbU9rWlRueFUwVGJ6WXM3cjFLSmF1Qnp0R05IK1lYWW42YVlNMUpwZUppVERVN1BvWjY0eCtSV0tQb3c1d1ZRaVRaMjlIQUlyUWhHdm1vZ3FBa1dYbUVreUdQV2FvT05UTG00RXhibVhraW9EZzByTE1HTk1NaHYzZE8veWltTTJJdlBwOU9HK3VhNkxhU0NDeHBwYkt5UUlEVXd6SkJKbzArc3hmZzYzS3ZXamhhU0xFZnZ1Wkc1ZDU3UTJld053YzRpYU5Pb3lCYUgvWlpzaGNFRGl2Yk0xQkMzY3FqRmdtamsrcktSTlNlVTQ9
+#EXTM3U8#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU"
+
+group-title="Weiv sky", Rádio Simão na Web http://stm13.xcast.com.br:8402/stream 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8xU8biBiV9tSHbyz9urDr3HmB0ffEDmhxg&usqp=CAU"
+
+########EXTM3U8#######
+
+group-title= "TV Aberta",https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+ #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png"
+
+group-title="TV Aberta", Rede TV 
+
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w318899307.m3u8
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png"
+
+group-title="TV aberta", Record 
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png"
+
+########EXTM3U8#######
+
+group-title="NET+filmes", Furiosa uma saga mad Max
+
+https://expires1714447534.4gx322mopx7k3c3mbfsj4xl1lbmfh1fda33f2a217unxm4dn301.ink/file/karrycoffey/808772/-f-i-l-m-e-s-/786892.mp4?auth_key=9yXh4pwaL3cMDpYLdyME6LMQyTE6v1qceXn&expires=1714447534
+#EXTINF:-1 tvg-logo="https://www.claquete.com.br/fotos/filmes/poster/15795_medio.jpg"
+
+
